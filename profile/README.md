@@ -16,4 +16,4 @@ that extracts value from price oscilation **without predicting direction**.
 * [github](https://github.com/grindurus) &mdash; Our main GitHub organization
 * [x.com](https://x.com/grindurus) &mdash; Our official twitter
 
-<br clear="left"/> `
+<br clear="left"/>
