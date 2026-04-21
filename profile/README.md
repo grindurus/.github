@@ -13,7 +13,7 @@ that extracts value from price oscilation **without predicting direction**.
 
 * [website](https://grindurus.xyz) &mdash; Our landing
 * [gitbook](https://docs.grindurus.xyz) &mdash; Our documentation
-* [@github](https://github.com/grindurus) &mdash; Our main GitHub organization
-* [@x.com](https://x.com/grindurus) &mdash; Our official twitter
+* [github](https://github.com/grindurus) &mdash; Our main GitHub organization
+* [x.com](https://x.com/grindurus) &mdash; Our official twitter
 
 <br clear="left"/> `
