@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://your-link/logo-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://your-link/logo-light.png">
-  <img align="left" src="https://your-link/logo.png" width="420">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/grindurus/.github/refs/heads/main/profile/URUS_logo_v2.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/grindurus/.github/refs/heads/main/profile/URUS_logo_v2.png">
+  <img align="left" src="https://raw.githubusercontent.com/grindurus/.github/refs/heads/main/profile/URUS_logo_v2.png" width="420">
 </picture>
 
 # GrindURUS
